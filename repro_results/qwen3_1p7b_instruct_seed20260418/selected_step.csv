@@ -1,0 +1,2 @@
+step,source_target_hit,positive_target_hit,independent_target_hit,family_independent_gap,hardlabel_auc,n_source_rows,n_positive_models,n_independent_models,mean_scm,median_scm,n_scm_rows,selection_rule
+197,1.0,0.86875,0.1388888888888889,0.7298611111111111,1.0,20,8,9,6.9020042229257825,6.509995363305201,20,scm

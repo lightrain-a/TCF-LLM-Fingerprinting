@@ -1,0 +1,4 @@
+method,positive_group,negative_group,n_positive,n_negative,n_pairs,positive_mean,negative_mean,auc
+proflingo_final,source+family,independent,0,0,0,,,
+trap_final,source+family,independent,0,0,0,,,
+ours_step197,source+family,independent,7,9,63,0.9214285714285714,0.1388888888888889,1.0
